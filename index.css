@@ -1,5 +1,6 @@
 html {
     overflow-y: scroll;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Fire Sans, Nelvetica Neue, sans-serif;
 }
 
 .container
