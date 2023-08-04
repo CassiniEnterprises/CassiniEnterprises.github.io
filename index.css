@@ -76,7 +76,7 @@ html {
 
 .navButton:hover
 {
-    background-color: #660208;
+    background-color: #1b1464;
 }
 
 .module
@@ -102,12 +102,12 @@ html {
 
 a:hover
 {
-    color: #660208 !important;
+    color: #1b1464 !important;
 }
 
 a:active
 {
-    color: #660208;
+    color: #1b1464;
 }
 
 a:link
@@ -185,30 +185,6 @@ img
     color: white;
 }
 
-#aboutUsHeader
-{
-    background-image: url("Assets/Images/Red/centralparkskylinered.jpg");
-    background-repeat:no-repeat;
-    background-position: center center;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-    color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-#servicesHeader
-{
-    background-image: url("Assets/Images/Red/fifthavedownstreetred.jpg");
-    background-repeat:no-repeat;
-    background-position: center center;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-    color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
 #servicesHeader a
 {
     color: white;
@@ -233,7 +209,7 @@ img
 
 #coloredHorizontalBarTop
 {
-    background-color: #660208;
+    background-color: #1b1464;
     min-height: 2px;
 }
 
